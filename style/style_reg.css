@@ -1,0 +1,21 @@
+body {
+  overflow-y: auto;
+  text-align: center;
+  text-align-last: center;
+  overflow-x: hidden;
+  width: 400px;
+  margin-top: auto;
+  margin: auto;
+  height: 100px;
+  padding: 30px;
+  border: 1px solid #000;
+  border-radius: 10px;
+}
+
+h3 {
+  margin: auto;
+}
+
+h1 {
+  justify-content: center;
+}

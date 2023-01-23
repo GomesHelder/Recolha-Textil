@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  background-color: rgba(27, 75, 21, 0.589);
+}
+
+td {
+  margin: 10px;
+}
+
+form {
+  background: #487249;
+  overflow-y: auto;
+  text-align: center;
+  text-align-last: center;
+  overflow-x: hidden;
+  width: 300px;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #000;
+  border-radius: 10px;
+}
+
+p {
+  margin-left: 60px;
+  margin-right: 60px;
+  margin-block-start: auto;
+}
+
+img {
+  border-radius: 10px;
+  border: 6px solid #000;
+}
+
+h1 {
+  color: #000000;
+  display: flex;
+  margin-left: 40px;
+}

@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+}
+
+.back {
+  background-color: #9aaa80;
+  height: 814px;
+}
+
+img {
+  width: 500px;
+  height: 540px;
+  border: 0ch;
+  margin: 0ch;
+  float: left;
+}
+
+img,
+input,
+p,
+label {
+  display: inline-block;
+}
+
+input {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+}
+
+h1 {
+  color: #38461f;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+label {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+p {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+

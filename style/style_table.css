@@ -1,0 +1,55 @@
+table {
+  margin-top: 10px;
+  width: -webkit-fill-available;
+  background-color: #5b782b;
+  height: auto;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+th,
+td {
+  border: 1px solid black;
+  color: beige;
+}
+
+td {
+  text-align: center; 
+  vertical-align: middle;
+}
+
+select {
+  border: 1px solid #000;
+  border-radius: 20px;
+  background-color: #5b782b;
+  font-weight: bold;
+  color: rgb(255, 255, 255);
+  margin-top: 10px;
+}
+
+label {
+  color: beige;
+}
+
+input {
+  margin-top: 25px;
+  border-radius: 10px;
+  background-color: #a3d65193;
+  font-weight: bold;
+  color: rgb(255, 255, 255);
+  border: 1px solid #000;
+}
+
+form {
+  background: #283414;
+  overflow-y: auto;
+  text-align: center;
+  text-align-last: center;
+  overflow-x: hidden;
+  width: 435px;
+  margin-top: 20px;
+  margin: auto;
+  padding: 48px;
+  border: 1px solid #000;
+  border-radius: 10px;
+}

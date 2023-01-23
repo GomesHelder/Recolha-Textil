@@ -1,0 +1,50 @@
+form {
+  background: #283414;
+  overflow-y: auto;
+  text-align: center;
+  text-align-last: center;
+  overflow-x: hidden;
+  width: 435px;
+  margin-top: 20px;
+  margin: auto;
+  padding: 68px;
+  border: 1px solid #000;
+  border-radius: 10px;
+}
+input {
+  margin-top: 25px;
+  border-radius: 10px;
+  background-color: #a3d65193;
+  font-weight: bold;
+  color: rgb(255, 255, 255);
+  border: 1px solid #000;
+}
+
+h3 {
+  margin-bottom: 30px;
+  color: beige;
+}
+
+select {
+  border: 1px solid #000;
+  border-radius: 10px;
+  background-color: #5b782b;
+  font-weight: bold;
+  color: rgb(255, 255, 255);
+}
+
+label {
+  color: beige;
+}
+
+button {
+  margin-top: 25px;
+  border-radius: 10px;
+  background-color: #607e30;
+  font-weight: bold;
+  color: beige;
+}
+
+.show {
+  color: beige;
+}
